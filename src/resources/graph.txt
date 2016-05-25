@@ -1,0 +1,40 @@
+DFS
+
+A: F E 
+B: F 
+C: G F D 
+D: G C 
+E: A 
+F: A B C G 
+G: H D C F 
+H: G 
+
+A F B C G H D E
+
+BFS
+
+A: B E 
+B: A F E 
+C: G H D 
+D: H C 
+E: A F B 
+F: B G E 
+G: C F 
+H: C D 
+
+A B E F G C H D
+
+CONNECTED COMPONENTS
+
+A: F G 
+B: H 
+C: D I 
+D: C J E I 
+E: D J 
+F: A G 
+G: F A 
+H: B 
+I: J D C 
+J: I D E 
+
+0 1 2 2 2 0 0 1 2 2

@@ -1,0 +1,24 @@
+0:5 
+1:2 0 
+2:3 
+3:8 4 
+4:9
+5:1 6 
+6:2 7 1 
+7:2 8 
+8:2 
+9:8 3
+
+    A:  F 
+    B:  C A 
+    C:  D 
+    D:  I E 
+    E:  J 
+    F:  B G 
+    G:  C H B 
+    H:  C I 
+    I:  C 
+    J:  I D 
+    
+    // Reverse: C I H J E D A B G F 
+    
